@@ -1,6 +1,6 @@
-const nombres = ["Pedro", "Maximiliano", "Pablo", "Ana", "Cintia"];
+const nombres = ["Pedro", "Maximiliano", "Pablo", "Lucia", "Cintia"];
 
-console.log("De los nombres Pedro, Maximiliano, Pablo, Ana y Cintia");
+console.log("De los nombres Pedro, Maximiliano, Pablo, Lucia y Cintia");
 const obtenerNombreMasLargo = (lista) => {
   let nombreMasLargo = "";
   for (const nombre of lista) {
