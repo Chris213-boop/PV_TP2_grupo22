@@ -1,0 +1,50 @@
+.body{
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: url("../img/ejercicio20.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 90%;
+    max-width: 500px;
+}
+
+.tituloPrincipal{
+    font-size: 2em;
+    color: #0056b3;
+    margin-bottom: 20px;
+}
+
+.grupo{
+    margin-bottom: 20px;
+}
+
+.etiqueta{
+    font-size: 1.1em;
+    color: #333;
+    display: block;
+    margin-bottom: 10px;
+}
+.selector{
+    width: 100%;
+    padding: 10px;
+    font-size: 1.1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
