@@ -1,4 +1,4 @@
-import { obtenerColorAleatorio } from './colorUtils24.js';
+import { obtenerColorAleatorio } from './AuXiliar24.js';
 
 const boton = document.getElementById('btnCambiarFondo');
 
