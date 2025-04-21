@@ -1,4 +1,4 @@
-import { cambiarTexto } from './auXiliar18.js';
+import { cambiarTexto } from './ejercicio18Auxiliar.js';
 
 const boton = document.getElementById('boton');
 const parrafo = document.getElementById('parrafo');
